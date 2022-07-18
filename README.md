@@ -17,11 +17,11 @@
 
 <h3 align="center">Github Analytics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronsiim&show_icons=true&locale=en&layout=compact" alt="aaronsiim" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronsiim&show_icons=true&locale=en&layout=compact" alt="aaronsiim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronsiim&show_icons=true&locale=en" alt="aaronsiim" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronsiim&show_icons=true&locale=en" alt="aaronsiim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronsiim&" alt="aaronsiim" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronsiim&" alt="aaronsiim" /></p>
 
 
 
