@@ -62,7 +62,7 @@
 
 - 👨‍💻 All of my projects are available at [(Github)](https://github.com/aaronsiim)
 
-- 🚀 Check out some of the NFTs I have earned [OpenSea.io](https://opensea.io/AaronSim)
+- 🚀 Check out some of the NFTs I have earned [OpenSea.io](https://opensea.io/AaronSim) or [OpenSea.io: EtherSiim](https://opensea.io/EtherSiim)
 
 - 💬 Ask me about **Web3 Full Stack** and technolgy underneath it.
 
