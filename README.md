@@ -95,6 +95,7 @@
 | Web3 Tinder    |   web3-react-app    | Building Tinder Blockchain Web 3.0 App using Moralis, Solidity, Next.js, Sanity.io and more.   | Nextjs, Sanity, Tailwind, Moralis, Solidity, Metamask |  https://web3-tinder.vercel.app/    |
 | Web3 Chat Metaverse     |   web2-react-chat-metaverse    | Web3 Blockchain React-app to chat using Metamask | MetaMask, Next.js, Moralis.io, TailwindCSS   |  https://web3-metaverse-theta.vercel.app/      |
 | Web3 Alchemy Week2 Buy Me A Coffee App     |   web3-nextjs-app    | Web3 Blockchain React-app to send message to buy a coffee using Metamask | MetaMask, Next.js, Alchemy, Replit   |  https://alchemy-web3-buy-me-a-coffee.aaronsiim.repl.co/      |
+| Web3 Alchemy Week4 Create NFT Gallary App    |   web3-nextjs-app    | Web3 Blockchain App to Find all the NFTs minted on a given chains | MetaMask, Next.js, Alchemy API   |  -  |
 
 
 
