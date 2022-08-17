@@ -98,6 +98,7 @@
 | Web3 Alchemy Week4 Create NFT Gallary App    |   web3-nextjs-app    | Web3 Blockchain App to Find all the NFTs minted on a given chains | MetaMask, Next.js, Alchemy API   |  -  |
 
 
+[![All Contributors](https://img.shields.io/badge/All_contributors-39-orange.svg?style=flat-square)](#contributors-)
 
 
 
