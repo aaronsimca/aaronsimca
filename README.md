@@ -96,7 +96,7 @@
 | Web3 Chat Metaverse     |   web2-react-chat-metaverse    | Web3 Blockchain React-app to chat using Metamask | MetaMask, Next.js, Moralis.io, TailwindCSS   |  https://web3-metaverse-theta.vercel.app/      |
 | Web3 Alchemy Week2 Buy Me A Coffee App     |   web3-nextjs-app    | Web3 Blockchain React-app to send message to buy a coffee using Metamask | MetaMask, Next.js, Alchemy, Replit   |  https://alchemy-web3-buy-me-a-coffee.aaronsiim.repl.co/      |
 | Web3 Alchemy Week4 Create NFT Gallary App    |   web3-nextjs-app    | Web3 Blockchain App to Find all the NFTs minted on a given chains | MetaMask, Next.js, Alchemy API   |  -  |
-
+| Web3 GIF Solana DApp    |   web3-nextjs-app    | Web3 GIF App to add new GIF and access the old once | Solana, Next.js, Phantom, Rust, Anchor   |  https://web3-gif-portal-starter-peach.vercel.app/  |
 
 [![All Contributors](https://img.shields.io/badge/All_contributors-39-orange.svg?style=flat-square)](#contributors-)
 
