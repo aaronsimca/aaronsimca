@@ -76,7 +76,7 @@
 <a href="https://twitter.com/aaronsiim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaronsiim" height="30" width="40" /></a>
 </p>
 
-<p align="center"><a href="https://twitter.com/aaronsiim" target="blank"> <img alt="aaronsim.eth" width="400" src="https://user-images.githubusercontent.com/104885292/179433587-54b3a225-5f9a-43f0-99b7-157865e64bcd.gif"/></a></p>
+<p align="center"><a href="https://twitter.com/aaronsiim" target="blank"> <img alt="aaronsim.eth" width="400" src="https://user-images.githubusercontent.com/104885292/217350220-452cdc8c-c53a-4347-af0a-f34b7a2a9c89.gif"/></a></p>
 
 <p align="center"> <a href="https://twitter.com/aaronsiim" target="blank"><img src="https://img.shields.io/twitter/follow/aaronsiim?logo=twitter&style=for-the-badge" alt="aaronsiim" /></a> </p>
 
