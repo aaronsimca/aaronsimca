@@ -98,6 +98,8 @@
 | Web3 Alchemy Week4 Create NFT Gallary App    |   web3-nextjs-app    | Web3 Blockchain App to Find all the NFTs minted on a given chains | MetaMask, Next.js, Alchemy API   |  -  |
 | Web3 GIF Solana DApp    |   web3-nextjs-app    | Web3 GIF App to add new GIF and access the old once | Solana, Next.js, Phantom, Rust, Anchor   |  https://web3-gif-portal-starter-peach.vercel.app/  |
 | Web2 Deliveroo React Native app    |   deliveroo-react-native    |Deliveroo React Native app with Android, iOS, WebApp capability | react-native, sanity, expo, tailwindcss   |  https://github.com/aaronsiim/deliveroo-react-native |
+| Generative AI Dalle2 Webapp    |   dalle2-webapp    | OpenAi Dalle2 React app with text-to-image capability | React, Typescript, NextJS 13.2, Model (Dalle2, ChatGPT), Vercel, Tailwind CSS, Microsoft Azure   |  *  |
+
 
 
 [![All Contributors](https://img.shields.io/badge/All_contributors-39-orange.svg?style=flat-square)](#contributors-)
