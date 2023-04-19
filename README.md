@@ -27,15 +27,15 @@
 
 <h1 align="center">Web3 eBooks that I wrote:</h1>
 <h5 align="center">Decentralized Cryptographic Pseudonymous Economy (DCPE)</h5>
-<p align="center"><a href="https://twitter.com/ethersiim" target="blank"> <img alt="ethersiim" width="400" src="https://user-images.githubusercontent.com/104885292/179432235-43290033-24d9-4f09-88c4-605ba79f5ccd.gif"/></a></p>
-<p align="center"> <a href="https://twitter.com/ethersiim" target="blank"><img src="https://img.shields.io/twitter/follow/ethersiim?logo=twitter&style=for-the-badge" alt="ethersiim" /></a> </p>
+<p align="center"><a href="https://twitter.com/siimxyz" target="blank"> <img alt="siimxyz" width="400" src="https://user-images.githubusercontent.com/104885292/179432235-43290033-24d9-4f09-88c4-605ba79f5ccd.gif"/></a></p>
+<p align="center"> <a href="https://twitter.com/siimxyz" target="blank"><img src="https://img.shields.io/twitter/follow/siimxyz?logo=twitter&style=for-the-badge" alt="siimxyz" /></a> </p>
 
 
-- 📕 1) [2022 Web3 ToolKit](https://twitter.com/ethersiim)
+- 📕 1) [2022 Web3 ToolKit](https://twitter.com/siimxyz)
 
-- 📗 2) [2022 Web3 Projects](https://twitter.com/ethersiim)
+- 📗 2) [2022 Web3 Projects](https://twitter.com/siimxyz)
 
-- 📘 3) [2022 Web3 Technical ToolKit (Coming soon!)](https://twitter.com/ethersiim)
+- 📘 3) [2022 Web3 Technical ToolKit (Coming soon!)](https://twitter.com/siimxyz)
 
 <p>Decentralized Cryptographic Pseudonymous Economy (DCPE)</p>
 <p>I wrote these ebooks because I wanted to provide that web3 guide –or at least to do the best job I could of providing it with what I've learned from my personal experience and from the experiences of other successful software developers, web3 experts, crypto twitter and DAO communities that I've had the pleasure of meeting and interacting with. I wrote these books because I felt that it would be a waste to not share what I have learned and what I have experienced.</p>
@@ -52,17 +52,17 @@
 
 - 🔭 I’m a **Software Engineer** from [University of Northampton, UK](https://www.northampton.ac.uk/)
 
-- 👨‍💼 I'm a working on **Web3 with Intensive Ecosystem Research** with [EtherSiim](https://twitter.com/ethersiim)
+- 👨‍💼 I'm a working on **Web3 with Intensive Ecosystem Research** with [siimxyz](https://twitter.com/siimxyz)
 
 - 🚀 I'm also a **Developer DAO Dev** (member), **Dev#2088** [NFT Link](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/2088)
 
 - 🌱 I’m currently learning **Reactjs, Solidity, Hardhat, NextJS, DAOs, and everything within Web 3.0 ecosystem**
 
-- 🤝 I’m currently also working on [Decentralized Cryptographic Pseudonymous Economy (DCPE) Protocol](https://twitter.com/EtherSiim)
+- 🤝 I’m currently also working on [Decentralized Cryptographic Pseudonymous Economy (DCPE) Protocol](https://twitter.com/siimxyz)
 
 - 👨‍💻 All of my projects are available at [(Github)](https://github.com/aaronsiim)
 
-- 🚀 Check out some of the NFTs I have earned [OpenSea.io](https://opensea.io/AaronSim) or [OpenSea.io: EtherSiim](https://opensea.io/EtherSiim)
+- 🚀 Check out some of the NFTs I have earned [OpenSea.io](https://opensea.io/AaronSim) or [OpenSea.io: Siimxyz](https://opensea.io/EtherSiim)
 
 - 💬 Ask me about **Web3 Full Stack** and technolgy underneath it.
 
