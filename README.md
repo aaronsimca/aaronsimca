@@ -20,6 +20,7 @@
 |:------------ |:------------|:--------------|:----------------|
 | multichain.storage MCS | A decentralized storage solution designed for multichain environments. | React, Next.js, Tailwind CSS, Metamask, IPFS, Filecoin, Web3.js | [Live Demo](https://multichain.storage) |
 | deathstack.com | A wearable nano-biomedical sensor web app to help users navigate life-threatening challenges and achieve personal growth. | React, Next.js, Redux, Typescript, node.js | [Live Demo](https://deathstack.com) |
+| PhysicianOS | An app designed to diagnose medical reports and provide actionable insights for physicians. | React, Next.js, TypeScript, Node.js | [Vercel Demo](https://physician-os.vercel.app/)  [Live Demo](https://physicianos.com) |
 | Deliveroo React Native App | A cross-platform Deliveroo clone with Android, iOS, and WebApp capabilities. | React Native, Sanity.io, Expo, Tailwind CSS | [GitHub Repository](https://github.com/aaronsimca/deliveroo-react-native) |
 | Name It | A simple React application that generates name suggestions based on keyword inputs. | React, HTML5 | [Live Demo](https://aaronsimca.github.io/nameit-react-app/) |
 | Flash Type | React application to test and improve typing speed. | React, HTML5, CSS3, JavaScript | [Live Demo](https://aaronsimca.github.io/flashtype) |
