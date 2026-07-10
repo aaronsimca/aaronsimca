@@ -12,7 +12,7 @@
     </a>
 </p>
 
-<h5 align="center">Notable Projects</h5>
+<!-- <h5 align="center">Notable Projects</h5>
 
 <div style="font-size: 9px; padding: 5px;">
   
@@ -34,7 +34,7 @@
 | Web3 GIF Solana DApp | A Solana-based application for adding and viewing GIFs. | Solana, React, Next.js, Phantom, Rust, Anchor | [Live Demo](https://web3-gif-portal-starter-peach.vercel.app/) |
 | Web3 Alchemy NFT Gallery | An application that displays all NFTs minted on specific blockchain networks. | MetaMask, React, Next.js, Alchemy API | - |
 
-</div>
+</div> -->
 
 <p align="center">
     <img src="https://img.shields.io/badge/All_contributors-39-orange.svg?style=flat-square" alt="All Contributors"/>
